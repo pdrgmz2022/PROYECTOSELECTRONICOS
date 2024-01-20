@@ -55,3 +55,9 @@ footer img {
   #textofooter{
     color: brown;
   }
+  #nosotros{
+    background-image:url('../img/fondo.jpg'); ;
+  }
+  #justificar{
+    text-align: justify;
+  }
